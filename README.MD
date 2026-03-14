@@ -30,7 +30,7 @@ A modern React application built using **Vite** for fast development and optimiz
 Clone the repository
 
 ```bash
-git clone https://github.com/MrInal-M3hta/React-
+git clone https://github.com/MrInal-M3hta/React-.git
 ```
 Go to the project directory
 
